@@ -113,8 +113,8 @@ def healthIconSize = "16x16"
 def healthReports = project.buildHealthReports
 
 String online_report_url = "http://myd-vm03063.hpeswlab.net:60000/view_ci/ci.html"
-String cute_url = "https://raw.githubusercontent.com/ppokyou/Resources/master/cute.png";
-String fire_url = "https://raw.githubusercontent.com/ppokyou/Resources/master/fire.png";
+String cute_url = "https://raw.github.houston.softwaregrp.net/pengw/Jenkins_Resource/master/cute.png";
+String fire_url = "https://raw.github.houston.softwaregrp.net/pengw/Jenkins_Resource/master/fire.png";
 int total_builds = 0
 int total_failed = 0
 int total_passed = 0
